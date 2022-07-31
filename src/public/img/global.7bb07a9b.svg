@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="46px" viewBox="0 0 40 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <ellipse id="path-1" cx="6.20689655" cy="33.7931034" rx="6.20689655" ry="6.20689655"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="18.4137931" height="18.4137931">
+            <rect x="-3" y="24.5862069" width="18.4137931" height="18.4137931" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <circle id="path-3" cx="26.8965517" cy="20" r="6.20689655"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="18.4137931" height="18.4137931">
+            <rect x="17.6896552" y="10.7931034" width="18.4137931" height="18.4137931" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <circle id="path-5" cx="6.20689655" cy="6.20689655" r="6.20689655"></circle>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="18.4137931" height="18.4137931">
+            <rect x="-3" y="-3" width="18.4137931" height="18.4137931" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-web" transform="translate(-468.000000, -1895.000000)" stroke="#259EFA">
+            <g id="Socialize" transform="translate(251.000000, 1890.000000)">
+                <g id="header" transform="translate(179.000000, 0.000000)">
+                    <g id="h2" transform="translate(41.000000, 0.000000)">
+                        <g id="icon" transform="translate(0.000000, 8.000000)">
+                            <path d="M11.3793103,30 L21.7241379,23.7931034" id="Line" stroke-width="3" stroke-linecap="round" stroke-dasharray="1,4"></path>
+                            <path d="M11.5269867,9.79278815 L22.0747306,15.6482234" id="Line-Copy" stroke-width="3" stroke-linecap="round" stroke-dasharray="1,4"></path>
+                            <use id="Oval-4" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+                            <use id="Oval-4-Copy" mask="url(#mask-4)" stroke-width="6" xlink:href="#path-3"></use>
+                            <use id="Oval-4-Copy-2" mask="url(#mask-6)" stroke-width="6" xlink:href="#path-5"></use>
+                            <path d="M22.0689655,23.4482759 C22.0689655,23.4482759 23.3013284,21.3793103 26.9661253,21.3793103 C30.6309223,21.3793103 31.7241379,23.3900747 31.7241379,23.3900747" id="Path-3" stroke-width="2"></path>
+                            <circle id="Oval-5" stroke-width="2" cx="26.8965517" cy="19.3103448" r="2.06896552"></circle>
+                            <path d="M1.37931034,9.65517241 C1.37931034,9.65517241 2.61167318,7.5862069 6.27647016,7.5862069 C9.94126713,7.5862069 11.0344828,9.59697128 11.0344828,9.59697128" id="Path-3" stroke-width="2"></path>
+                            <ellipse id="Oval-5" stroke-width="2" cx="6.20689655" cy="5.51724138" rx="2.06896552" ry="2.06896552"></ellipse>
+                            <path d="M1.37931034,37.2413793 C1.37931034,37.2413793 2.61167318,35.1724138 6.27647016,35.1724138 C9.94126713,35.1724138 11.0344828,37.1831782 11.0344828,37.1831782" id="Path-3" stroke-width="2"></path>
+                            <ellipse id="Oval-5" stroke-width="2" cx="6.20689655" cy="33.1034483" rx="2.06896552" ry="2.06896552"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
